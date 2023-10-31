@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapphTools.DefaultPrinterSelector", "SapphTools.DefaultPrinterSelector.csproj", "{10B3A5C1-0544-48C8-AE64-9597DBF1565F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B3A5C1-0544-48C8-AE64-9597DBF1565F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B3A5C1-0544-48C8-AE64-9597DBF1565F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B3A5C1-0544-48C8-AE64-9597DBF1565F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B3A5C1-0544-48C8-AE64-9597DBF1565F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E34DAD9D-A340-4BCA-B37B-CC12E9F28F16}
+	EndGlobalSection
+EndGlobal
